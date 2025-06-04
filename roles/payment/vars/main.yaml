@@ -1,3 +1,3 @@
 CART_HOST: cart.tejaswini.site
 USER_HOST: user.tejaswini.site
-RABBITM_HOST: rabbitmq.tejaswini.site
+RABBITMQ_HOST: rabbitmq.tejaswini.site
